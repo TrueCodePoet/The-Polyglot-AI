@@ -297,3 +297,5 @@ Timing information will be represented within square brackets [ ] after each mov
 - Movement 7: Pull the arms backward. Duration: 1 count.
 - Movement 8: Perform an arm circle. Duration: 2 counts.
 - Movement 9: Execute a pivot turn to the left (counterclockwise) with a medium dynamic, representing a joyful expression. Duration: 2 counts.
+
+## Do you understand this Notation and can you read and write this dance notation?
