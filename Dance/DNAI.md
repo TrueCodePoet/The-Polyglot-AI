@@ -1,3 +1,5 @@
+## Given the following: 
+
 # Title: Comprehensive Dance Notation AI Interface (DNAI)
 
 **Description:** The Comprehensive Dance Notation AI Interface is an advanced system designed to facilitate the reading and generation of dance notation sequences that encompass movements, dynamics, emotions, spatial awareness, body actions, effort qualities, annotations, and timing. This interface empowers AI engines to accurately interpret and create dance notation, enabling a detailed and comprehensive representation of choreography, including its rhythmic structure and timing requirements. The aim is to enhance communication, documentation, and choreographic collaboration within the dance community.
